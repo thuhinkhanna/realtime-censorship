@@ -20,8 +20,4 @@ The project is a browser extension to detect and redact NSFW content from web pa
 4. Enable developer mode in your browser and install the extension from the Browser Extension folder using the Load unpacked feature.
 5. Load into any page and run the browser extension on it.
 
-## Demo Video
-
-<iframe src="https://drive.google.com/file/d/1fJ_ETrYDe968CxkZ6eo-Q4IIlgwczwNv/preview" width="640" height="480"></iframe>
-
 ## Model Details
